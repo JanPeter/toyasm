@@ -43,4 +43,4 @@ void Init(Handle<Object> exports) {
   NODE_SET_METHOD(exports, "create", Create);
 }
 
-NODE_MODULE(hello, Init)
+NODE_MODULE(toyasm, Init)
