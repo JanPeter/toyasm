@@ -1,0 +1,13 @@
+{
+  "name": "Toyasm",
+  "version": "0.0.1",
+  "description": "Assembler for Toy",
+  "main": "toyasm.js",
+  "scripts": {
+    "test": "node toyasm.js"
+  },
+  "gypfile": true,
+  "dependencies": {
+    "bindings": "~1.2.1"
+  }
+}
