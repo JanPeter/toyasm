@@ -6,7 +6,6 @@ read  LD R1, 0xFF
       ADD R2, R2, R1
       BZ R0, read
 
-
 check BP R2, write
       LD R3, mask
       XOR R2, R2, R3
