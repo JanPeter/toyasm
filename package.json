@@ -2,7 +2,7 @@
   "name": "toyasm",
   "version": "0.0.1",
   "description": "Assembler for Toy",
-  "main": "./build/Release/toyasm",
+  "main": "toyasm.js",
   "scripts": {
     "test": "node toyasm.js"
   },
